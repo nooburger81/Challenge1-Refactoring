@@ -6,10 +6,7 @@ A marketing agency contracted us to refactor their source code to meet accessibi
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
+Use this webpage to navigate how Horiseon can help you optimize your search engine results.
 ![Image of finihsed webpage](assets/images/screenshot-challenge1.jpg)
 
 ## License
