@@ -7,6 +7,7 @@ A marketing agency contracted us to refactor their source code to meet accessibi
 ## Usage
 
 Use this webpage to navigate how Horiseon can help you optimize your search engine results.
+https://nooburger81.github.io/Challenge1-Refactoring/
 ![Image of finihsed webpage](assets/images/screenshot-challenge1.jpg)
 
 ## License
